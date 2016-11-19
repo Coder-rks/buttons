@@ -1,0 +1,14 @@
+.button{
+		
+			border-style: solid;
+			border-color: teal;
+			color: white;
+			border-radius: 5px; 
+			font-size:17px;
+			max-width:300px;
+			text-align: center;
+			margin: 10px;
+   			padding: 10px;
+
+		}
+		
